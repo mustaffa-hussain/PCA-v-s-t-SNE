@@ -8,3 +8,4 @@ Principal component analysis is the most famous dimension reduction technique. I
 
 ## t-SNE
 t-Distributed Stochastic Neighbor Embedding is probablistic model. As the name suggests it works on the neighbourhood embedding. The process tries to find such an embedding(mapping) that it **preserves the neighbourhood**. If a point had 5 more points in the neighbourhood. t-SNE tries to map all the 6 points together in the transformation. It preserves the neighbourhood and dosent care outside it. This is local structure preserving dimensional reduction technique.
+**note- perform t-SNE multiple times on different values of parameters before finalising parameters**
