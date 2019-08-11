@@ -1,3 +1,4 @@
+![this is taken from GOOGLE BLOG](tSNE.gif)
 # PCA vs t-SNE
 It has the comparison study on dimension reduction techniques PCA and t-SNE.
 The dataset used here is MNIST train data set. It is openly available on kaggle. The dataset is that of character recognisation. 
