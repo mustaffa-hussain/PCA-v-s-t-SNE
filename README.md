@@ -1,5 +1,5 @@
 ![this is taken from GOOGLE BLOG](tSNE.gif)
-![Farmers Market Finder Demo](https://3.bp.blogspot.com/-NE01azL_JxU/Wxli17oYNzI/AAAAAAAACxQ/axOI2yy-Ft0QbqaekOyemm5Xn0wAFvRUwCLcBGAs/s640/image2.gif)
+![Farmers Market Finder Demo]("https://3.bp.blogspot.com/-NE01azL_JxU/Wxli17oYNzI/AAAAAAAACxQ/axOI2yy-Ft0QbqaekOyemm5Xn0wAFvRUwCLcBGAs/s640/image2.gif")
 # PCA vs t-SNE
 It has the comparison study on dimension reduction techniques PCA and t-SNE.
 The dataset used here is MNIST train data set. It is openly available on kaggle. The dataset is that of character recognisation. 
