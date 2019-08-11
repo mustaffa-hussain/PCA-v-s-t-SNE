@@ -1,7 +1,4 @@
 ![this is taken from GOOGLE BLOG](tSNE.gif?style=centerme)
-<p align="center">
-  <img />![this is taken from GOOGLE BLOG](tSNE.gif?style=centerme)
-</p>
 [The illustration is taken from the Google AI blog](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html)
 # PCA vs t-SNE
 It has the comparison study on dimension reduction techniques PCA and t-SNE.
